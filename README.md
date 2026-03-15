@@ -6,6 +6,10 @@ With a single click, the tool generates five random colors along with their hex 
 
 The goal of this tool is to make exploring color combinations fast and simple.
 
+Live Website:
+https://color-jagratahuja.vercel.app/
+
+
 ---
 
 ## ✨ Features
