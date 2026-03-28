@@ -137,5 +137,4 @@ This project is licensed under the MIT License.
 Jagrat Ahuja
 
 GitHub: https://github.com/jagratahuja
-
 Portfolio: https://jagratahuja.vercel.app
