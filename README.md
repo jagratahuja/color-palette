@@ -6,7 +6,7 @@ A web application that generates interactive color palettes for designers and de
 
 ## 🌐 Live Demo
 
-To be Added
+https://color-jagratahuja.vercel.app/
 
 ---
 
